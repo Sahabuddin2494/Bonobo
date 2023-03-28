@@ -100,6 +100,7 @@
                 font-size: 2rem;
                 color: white;
             }
+            
 }
 @media(max-width:575.98px){
     .header_part_left {
@@ -145,4 +146,7 @@
             .banner_size {
                 height: 15rem;
               }
+              .gallary_section_right {
+                text-align: center;
+            }
 }
