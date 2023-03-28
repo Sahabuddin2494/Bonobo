@@ -7,9 +7,11 @@
     <title>index</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" />
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/lightbox/lightbox.css">
+  
     <link rel="stylesheet" href="assets/responsive/responsive.css">
 </head>
 <body>
@@ -213,8 +215,41 @@
                     </div>
                     <!-- left_part_end -->
                    <div class="col-lg-4">
-                    <div class="gallary_section_right">
-
+                    <div class="gallary_section_right py-2">
+                        <div class="row">
+                            <div class="col-lg-6 offset-lg-3 col-md-4 col-sm-6">
+                              <div class="gallary_section_one my-2">
+                                <a href="assets/images/gellary1.png" data-lightbox="models" data-title="image1">
+                                    <img src="assets/images/gellary1.png" alt="gellary1" class="img-fluid">
+                                </a>
+                              </div>
+                            </div>
+                            <!-- one_end -->
+                            <div class="col-lg-6 col-md-4 col-sm-6">
+                                <div class="gallary_section_two my-2">
+                                    <a href="assets/images/gellary1.png" data-lightbox="models" data-title="image1">
+                                        <img src="assets/images/gellary1.png" alt="gallary2" class="img-fluid">
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- two_end -->
+                            <div class="col-lg-6 col-md-4 col-sm-6">
+                                <div class="gallary_section_two my-2">
+                                    <a href="assets/images/gellary1.png" data-lightbox="models" data-title="image4">
+                                        <img src="assets/images/gellary1.png" alt="gallary2" class="img-fluid">
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- two_end -->
+                            <div class="col-lg-6 offset-lg-3 col-md-4 col-sm-6">
+                                <div class="gallary_section_one my-2">
+                                  <a href="assets/images/gellary1.png" data-lightbox="models" data-title="image3">
+                                    <img src="assets/images/gellary1.png" alt="gellary1" class="img-fluid">
+                                </a>
+                                </div>
+                              </div>
+                              <!-- one_end -->
+                        </div>
                     </div>
                    </div>
                 </div>
@@ -224,8 +259,10 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <script src="assets/lightbox/lightbox-plus-jquery.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
+
     <script>
         $('.partner_section_main').slick({
             infinite: true,
@@ -264,7 +301,13 @@
     }
   ]
 });
-
+    </script>
+    <script>
+        lightbox.option({
+          'resizeDuration': 200,
+          'wrapAround': true,
+          'positionFromTop':100,
+        })
     </script>
 </body>
 </html>
