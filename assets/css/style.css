@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* cmm_section_start */
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+/* cmmn_section_end */
+/* top_section_start */
+.top_section_start{
+    background-color:#1D1D1D;
+    text-align: center;
+}
+.top_section_title p{
+    color: white;
+    margin:0px;
+    font-size: 14px;
+}
+/* top_section_end */
+/* header_part_start */
+.header_part_start{
+background-color: navy;
+}
+.header_part_left{
+
+}
+.logo_img_size{
+    width: 60%;
+}
+/* left_part_end */
+.header_part_middle{
+
+}
+.header_part_middle ul{
+position: relative;
+}
+.header_part_middle ul li{
+ display: inline-block;
+ padding:10px 11px;
+}
+.header_part_middle ul li:hover .mega_menu_section{
+display: block;
+}
+.header_part_middle ul li a{
+ font-size: 16px;
+ color: white;
+ font-weight: bold;
+}
+.header_part_middle ul li a:hover{
+    color: beige;
+}
+/* middle_part_end */
+.header_part_right{
+
+}
+.header_part_right .btn{
+    background-color:#FFD81B;
+    /* padding: 6px 10px; */
+    border-radius: 20px;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 4px;
+}
+/* header_part_end */
+/* mega_menu_section_start*/
+.mega_menu_section{
+background-color:white;
+position: absolute;
+top:100%;
+left:5%;
+display: none;
+box-shadow: 0px 0px 4px 1px #2AB8B1;
+border-radius: 6px;
+width:75%;
+}
+.mega_menu_left{
+
+}
+.mega_menu_left ul{
+    background-color:transparent!important;
+    padding-left: 0px;
+    padding-top:10px;
+}
+.mega_menu_left ul li {
+    display: block;
+    padding: 2px 20px;
+}
+.mega_menu_left ul li a{
+color:#2AB8B1;
+font-weight: 400;
+font-size: 14px;
+text-transform: uppercase;
+}
+.mega_menu_left ul li a:hover{
+ color: bisque;   
+}
+/* mega_left_end */
+.mega_menu_right{
+
+}
+/* mega_menu_section_end*/
