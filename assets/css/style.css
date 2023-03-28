@@ -148,3 +148,34 @@ background-color: #2AB8B1;
 border-radius: 10px;
 }
 /* partner_section_end */
+/* gallary_section_start */
+.gallary_section_start{
+
+}
+.gallary_section_left{
+
+}
+.gallary_section_left h2{
+    font-weight: bold;
+}
+.gallary_section_left p{
+    color:#474747;
+    font-weight: 500;
+}
+.gallary_section_left_btn{
+
+}
+.gallary_section_left_btn .btn{
+    background-color: #345A8B;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
+.gallary_section_left_btn .btn:hover{
+    background-color: navy;
+}
+/* left_end */
+.gallary_section_right{
+
+}
+/* gallary_section_end */
