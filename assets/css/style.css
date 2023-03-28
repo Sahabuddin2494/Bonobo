@@ -179,9 +179,62 @@ border-radius: 10px;
 
 }
 .gallary_section_one{
-    
+
 }
 .gallary_section_two{
 
 }
 /* gallary_section_end */
+/* services_section_start */
+.services_section_start{
+background-color:#FF822D;
+padding-top:50px;
+padding-bottom: 50px;
+}
+.services_section_left{
+
+}
+.services_section_left h1{
+ font-size: 50px;
+ font-weight: bold;
+ text-transform:uppercase;
+}
+.services_section_left p{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+/* left_part_end */
+.services_section_middle{
+background-image: url("../images/p1.png");
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:auto;
+background-position: center;
+}
+/* middle_part_end */
+.services_section_right{
+
+}
+.services_section_right h3{
+    text-transform:capitalize;
+    color: white;
+    font-weight: bold;
+}
+.services_section_right  p{
+    color: #FFDBC5;
+    font-size: 18px;
+}
+.services_section_right_btn{
+
+}
+.services_section_right_btn .btn{
+    background-color:white;
+    padding: 6px 15px;
+    font-size:18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+/* right_part_end */
+/* services_section_end */
