@@ -85,6 +85,7 @@ display: none;
 box-shadow: 0px 0px 4px 1px #2AB8B1;
 border-radius: 6px;
 width:75%;
+z-index: 100;
 }
 .mega_menu_left{
 
@@ -136,3 +137,14 @@ font-size: 4rem;
 color: white;
 }
 /* banner_section_end */
+/* partner_section_start */
+.partner_section_start{
+/* position: relative; */
+margin-top: -20px;
+}
+.partner_section_main{
+background-color: #2AB8B1;
+/* padding-left: 20px; */
+border-radius: 10px;
+}
+/* partner_section_end */
