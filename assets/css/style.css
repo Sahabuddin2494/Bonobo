@@ -112,3 +112,27 @@ text-transform: uppercase;
 
 }
 /* mega_menu_section_end*/
+/* banner_section_start */
+.banner_section_start{
+
+}
+.banner_section_slider{
+
+}
+.banner_size{
+ height:28rem;
+}
+.banner_main{
+    position: relative;
+}
+.banner_titile{
+position: absolute;
+top:40%;
+left: 18%;
+}
+.banner_titile h1{
+font-weight: bold;
+font-size: 4rem;
+color: white;
+}
+/* banner_section_end */
