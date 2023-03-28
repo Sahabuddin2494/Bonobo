@@ -238,3 +238,49 @@ background-position: center;
 }
 /* right_part_end */
 /* services_section_end */
+/* relation_ship_section_start */
+.relation_ship_section_start{
+
+}
+.relation_ship_section_left{
+
+}
+.relation_ship_section_one{
+
+}
+/* left_end */
+.relation_ship_section_right{
+text-align: right;
+}
+.relation_ship_section_right h5{
+  text-transform: uppercase;
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 0px;
+ 
+}
+.relation_ship_section_right hr{
+opacity: 1;
+color: #1596B6;
+width:30%;
+display: inline-block;
+margin-top:6px;
+}
+.relation_ship_section_right h2{
+ font-weight: bold;
+ text-transform: capitalize;
+ font-family: 'Roboto Slab', serif;
+}
+.relation_ship_section_right p{
+
+}
+.relation_ship_r_btn{
+
+}
+.relation_ship_r_btn .btn{
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+/* relation_ship_section_end */
