@@ -65,6 +65,10 @@
             .relation_ship_section_right {
                 text-align: center;
               }
+              .accordion_title h5 {
+                font-size: 20px;
+    
+            }
 }
 @media(min-width:576px) and (max-width:767px){
     .header_part_left {
@@ -110,6 +114,9 @@
             .relation_ship_section_right {
                 text-align: center;
               }
+              .accordion_title h5 {
+                font-size: 14px;
+            }
             
 }
 @media(max-width:575.98px){
@@ -165,4 +172,7 @@
             .relation_ship_section_right {
                 text-align: center;
               }
+              .accordion_title h5 {
+                font-size: 14px;
+            }
 }
