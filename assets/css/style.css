@@ -284,3 +284,41 @@ margin-top:6px;
     font-weight: 700;
 }
 /* relation_ship_section_end */
+/* free_growth_plan_section_start */
+.free_growth_plan_section_start{
+background-color: #EB2244;
+}
+.free_growth_plan_left{
+color: white;
+}
+.free_growth_plan_left p{
+margin-bottom: 0px;
+}
+.free_growth_plan_left h3{
+
+}
+/* left_end */
+.free_growth_plan_right{
+
+}
+.free_growth_plan_right .btn{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.free_growth_plan_right .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    background-color: white;
+    color: black;
+    padding: 6px 6px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+/* free_growth_plan_section_end */
