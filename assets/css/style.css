@@ -620,3 +620,46 @@ font-weight: bold;
 }
 /* left_end */
 /* branch_section_end */
+/* overall_client_review_start */
+.overall_client_review_start{
+background-color: #EBEBEB;
+}
+.overall_client_review_main{
+ text-align: center;
+ background-color:#F1F1F1;
+}
+
+/* overall_client_review_end */
+/* .copy_right_section_start */
+.copy_right_section_start{
+background-color: #EBEBEB;
+}
+.copy_right_section_left{
+
+}
+.copy_right_section_left ul{
+margin-bottom: 0px;
+}
+.copy_right_section_left ul li{
+display: inline-block;
+}
+.copy_right_section_left ul li a{
+    font-size: 13px;
+    color: #3C3638;
+    font-weight: bold;
+    padding: 0px 8px 0px 0px;
+}
+/* left_end */
+.copy_right_section_right{
+
+}
+.copy_right_section_right p{
+    font-size: 13px;
+    color: #3C3638;
+    font-weight: bold;
+    margin: 0px;
+}
+.footer_copy{
+    border-top: 1px solid paleturquoise;
+}
+/* copy_right_section_end */

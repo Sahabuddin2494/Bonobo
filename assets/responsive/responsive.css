@@ -67,7 +67,10 @@
               }
               .accordion_title h5 {
                 font-size: 20px;
-    
+            }
+            .copy_right_section_start {
+                background-color: #EBEBEB;
+                text-align: center;
             }
 }
 @media(min-width:576px) and (max-width:767px){
@@ -116,6 +119,10 @@
               }
               .accordion_title h5 {
                 font-size: 14px;
+            }
+            .copy_right_section_start {
+                background-color: #EBEBEB;
+                text-align: center;
             }
             
 }
@@ -174,5 +181,9 @@
               }
               .accordion_title h5 {
                 font-size: 14px;
+            }
+            .copy_right_section_start {
+                background-color: #EBEBEB;
+                text-align: center;
             }
 }
