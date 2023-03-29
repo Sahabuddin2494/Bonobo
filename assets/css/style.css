@@ -522,3 +522,101 @@ font-size: 20px;
     font-size: 14px;
 }
 /* agency_studio_section_end */
+/* lets_talk_section_start */
+.lets_talk_section_start{
+background-color: #EBEBEB;
+}
+.lets_talk_one{
+
+}
+.lets_talk_one .icon_t{
+    color: #575A61;
+}
+.lets_talk_one .icon1{
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 50%;
+    color: white;
+}
+.lets_talk_one .icon2{
+    background-color: red;
+    padding: 5px 7px;
+    border-radius: 50%;
+    color: white;
+}
+.lets_talk_one .icon3{
+    background-color: red;
+    padding: 5px 8px;
+    border-radius: 50%;
+    color: white;
+}
+.lets_talk_one .icon4{
+    background-color: red;
+    padding: 5px 8px;
+    border-radius: 50%;
+    color: white;
+}
+
+/* one_end */
+.lets_talk_two{
+
+}
+.lets_talk_two h1{
+    font-weight: bold;
+    margin: 0px;
+}
+.lets_talk_thee .svg-inline--fa {
+    height: 1em;
+    overflow: visible;
+    background-color: white;
+    color: red;
+    padding: 6px 6px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.lets_talk_thee .btn{
+    font-size: 15px;
+    background-color: red;
+    font-weight: 600;
+    color: white;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+/* lets_talk_section_end */
+/* branch_section_start */
+.branch_section_start{
+background-color: #EBEBEB;
+}
+.branch_main_left_one{
+
+}
+.branch_main_left_one hr{
+    margin: 0px;
+}
+.branch_main_left_one_title{
+    display: flex;
+    justify-content: flex-start;
+}
+.branch_main_left_one_title img{
+width:10%;
+height:20px;
+}
+.branch_main_left_one_title p{
+text-transform: capitalize;
+margin-bottom: 0px;
+color: #473535;
+font-weight: bold;
+}
+.branch_main_left_one_details{
+
+}
+.branch_main_left_one_details p{
+    font-size: 13px;
+    color: #647684;
+    margin: 0px;
+}
+.cmn_color{
+    color: red;
+}
+/* left_end */
+/* branch_section_end */
