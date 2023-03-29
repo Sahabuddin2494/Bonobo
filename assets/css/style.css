@@ -482,3 +482,43 @@ background-color:transparent;
     margin-bottom: 0px;
 }
 /* faq_section_end */
+/* agency_studio_section_start */
+.agency_studio_section_start{
+background-color: #1D1D1D;
+color: white;
+}
+.agency_studio_section_one{
+
+}
+.agency_studio_title{
+
+}
+.agency_studio_title h4{
+text-transform: capitalize;
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 700;
+margin: 0px;
+border-left: 2px solid #20B5CB;
+padding-left:4px;
+font-size: 20px;
+}
+.agency_studio_title p{
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: capitalize;
+    color: #6BB0CF;
+    margin:0px;
+    border-left:2px solid #EBEBEB;
+    padding-left:4px;
+    font-size: 14px;
+}
+.agency_studio_para{
+
+}
+.agency_studio_para p{
+    text-transform:capitalize;
+    color:#C4C4C4;
+    font-weight: 500;
+    margin: 0px;
+    font-size: 14px;
+}
+/* agency_studio_section_end */
