@@ -1,4 +1,11 @@
 @media(min-width:992px) and (max-width:1199.98px){
+    .header_part_start{
+        position: fixed;
+        top: 7%;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
     .mega_menu_section{
         background-color:white;
         position: absolute;
@@ -21,6 +28,15 @@
         }
 }
 @media(min-width:768px) and (max-width:991.98px){
+
+    .header_part_start{
+        position:static;
+        top: 7%;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        background-color:#271A36;
+    }
         .header_part_left {
         text-align: center;
         }
@@ -74,6 +90,14 @@
             }
 }
 @media(min-width:576px) and (max-width:767px){
+    .header_part_start{
+        position:static;
+        top: 7%;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        background-color:#271A36;
+    }
     .header_part_left {
         text-align: center;
         }
@@ -127,6 +151,14 @@
             
 }
 @media(max-width:575.98px){
+    .header_part_start{
+        position:static;
+        top: 7%;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        background-color:#271A36;
+    }
     .header_part_left {
         text-align: center;
         }

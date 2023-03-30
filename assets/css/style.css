@@ -29,9 +29,16 @@ a{
     font-size: 14px;
 }
 /* top_section_end */
-/* header_part_start */
+/* header_part_start */ 
 .header_part_start{
-background-color:#004B8C;
+    position: fixed;
+    top: 6%;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.fixed_menu_section{
+
 }
 .header_part_left{
 
