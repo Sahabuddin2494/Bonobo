@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200;300;400;500;600;700;800;900&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -147,10 +148,12 @@ color: white;
 /* banner_section_end */
 /* partner_section_start */
 .partner_section_start{
-
+    margin-top: -30px;
+    position: relative;
 }
 .partner_section_mid{
     box-shadow: 0px 0px 4px 1px plum;
+    background-color: white;
 }
 .partner_one{
 text-align: center;
@@ -268,7 +271,18 @@ background-position: center;
 
 }
 .relation_ship_section_one{
+    text-align: center;
+}
+.relation_ship_one_mid{
 
+}
+.relation_ship_section_one hr{
+border-color:paleturquoise;
+opacity: 1;
+margin:10px;
+}
+.cmm_border_right{
+    border-right: 1px solid paleturquoise;
 }
 /* left_end */
 .relation_ship_section_right{
@@ -288,14 +302,16 @@ color: #1596B6;
 width:30%;
 display: inline-block;
 margin-top:6px;
+border-top: 2px solid;
 }
-.relation_ship_section_right h2{
+.relation_ship_section_right h1{
  font-weight: bold;
  text-transform: capitalize;
- font-family: 'Roboto Slab', serif;
+ font-family: 'Crimson Pro', serif;
+ color: black;
 }
 .relation_ship_section_right p{
-
+text-align: right;
 }
 .relation_ship_r_btn{
 
@@ -303,7 +319,18 @@ margin-top:6px;
 .relation_ship_r_btn .btn{
     text-transform: uppercase;
     font-family: 'Roboto Slab', serif;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 14px;
+}
+.relation_ship_r_btn .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    background: black;
+    color: white;
+    padding: 9px 10px;
+    vertical-align: middle;
 }
 /* relation_ship_section_end */
 /* free_growth_plan_section_start */
@@ -321,7 +348,7 @@ margin-bottom: 0px;
 }
 /* left_end */
 .free_growth_plan_right{
-
+text-align: right;
 }
 .free_growth_plan_right .btn{
     background-color: black;
