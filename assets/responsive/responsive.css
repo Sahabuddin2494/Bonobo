@@ -23,9 +23,11 @@
             color: white;
         }
         .relation_ship_r_btn .btn {
-          
             font-size: 14px;
         }
+        .overall_client_review_main p {
+            font-size: 12px;
+          }
 }
 @media(min-width:768px) and (max-width:991.98px){
 
@@ -86,7 +88,7 @@
                 font-size: 20px;
             }
             .copy_right_section_start {
-                background-color: #EBEBEB;
+                background-color:black;
                 text-align: center;
             }
             .free_growth_plan_right{
@@ -152,13 +154,15 @@
                 font-size: 14px;
             }
             .copy_right_section_start {
-                background-color: #EBEBEB;
+                background-color:black;
                 text-align: center;
             }
             .free_growth_plan_right{
                 text-align:center;
                 }
-            
+                .lets_talk_thee{
+                    text-align:left;
+                }
 }
 @media(max-width:575.98px){
     .header_part_start{
@@ -225,7 +229,7 @@
                 font-size: 14px;
             }
             .copy_right_section_start {
-                background-color: #EBEBEB;
+                background-color:black;
                 text-align: center;
             }
             .relation_ship_section_right p{
@@ -233,5 +237,8 @@
               }
               .free_growth_plan_right{
                 text-align:center;
+                }
+                .lets_talk_thee{
+                    text-align:left;
                 }
 }

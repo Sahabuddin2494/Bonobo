@@ -411,24 +411,42 @@ padding-top:4px;
 .top_website_details_right{
 
 }
-.design_acordation_section{
-background-color: #F2F2F2;
+/* design_accordation_section_start */
+
+/* callaps_section_start */
+.callaps_section{
+
 }
-.design_acordation_one{
-    background-color: white;
-    display: flex;
-    justify-content:flex-start;
+.callaps_section_main{
+
 }
-.design_acordation_one span{
+.callaps_section_main_one{
+background-color:white;
+}
+.callaps_section_main_one_header{
+
+}
+.callaps_section_main_one_header .btn{
+    border: none;
+}
+.callaps_section_main_one_header p{
     color: #929292;
-    padding:0px 15px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
 }
-.design_acordation_one p{
-color: #929292;
-margin-bottom: 0px;
-font-size: 16px;
+.callaps_section_main_one_header_para{
+
 }
+.callaps_section_main_one_header_para p{
+    margin-bottom: 0px;
+    padding-left: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 14px;
+}
+/* callaps_section_end */
 /* top_website_design_end */
+
 /* .company_industies_section_start */
 .company_industies_section{
  background-color:#1F184C
@@ -510,6 +528,10 @@ text-align: center;
 }
 .faq_section_details{
 
+}
+.faq_section_details .accordion {
+    --bs-accordion-btn-padding-x:0px;
+    --bs-accordion-btn-padding-y: 0.7rem;
 }
 .faq_section_details .accordion-item{
     border: none;
@@ -613,6 +635,9 @@ background-color: #EBEBEB;
     font-weight: bold;
     margin: 0px;
 }
+.lets_talk_thee{
+    text-align: right;
+}
 .lets_talk_thee .svg-inline--fa {
     height: 1em;
     overflow: visible;
@@ -676,14 +701,16 @@ background-color: #EBEBEB;
  text-align: center;
  background-color:#F1F1F1;
 }
+.overall_client_review_main p{
+    font-size: 14px;   
+}
 
 /* overall_client_review_end */
 /* .copy_right_section_start */
 .copy_right_section_start{
-background-color: #EBEBEB;
+background-color:black;
 }
 .copy_right_section_left{
-
 }
 .copy_right_section_left ul{
 margin-bottom: 0px;
@@ -693,7 +720,7 @@ display: inline-block;
 }
 .copy_right_section_left ul li a{
     font-size: 13px;
-    color: #3C3638;
+    color:white;
     font-weight: bold;
     padding: 0px 8px 0px 0px;
 }
@@ -703,7 +730,7 @@ display: inline-block;
 }
 .copy_right_section_right p{
     font-size: 13px;
-    color: #3C3638;
+    color: white;
     font-weight: bold;
     margin: 0px;
 }
