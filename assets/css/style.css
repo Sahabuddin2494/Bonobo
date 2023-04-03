@@ -774,6 +774,13 @@ background-color: #EBEBEB;
 .overall_client_review_main p{
     font-size: 14px;   
 }
+.overall_client_review_main .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1.3em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    color:#FECA12;
+}
 
 /* overall_client_review_end */
 /* .copy_right_section_start */
