@@ -519,7 +519,29 @@ font-weight: bold;
 
 }
 /* everything_in_section_end */
+/* gallery_section_start */
+.gallery_section_start{
 
+}
+.gallery_section_one{
+    overflow: hidden;
+    width: 100%;
+    max-height:170px;
+}
+.gallery_section_one img {
+    width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: all 0.5s ease;
+    opacity: 0.9;
+}
+.gallery_section_one img:hover {
+    filter:none;
+    opacity:1;
+}
+/* gallery_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;

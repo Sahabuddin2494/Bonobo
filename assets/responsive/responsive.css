@@ -28,6 +28,11 @@
         .overall_client_review_main p {
             font-size: 12px;
           }
+          /* extra_contact_page */
+          .gallery_section_one {
+            max-height: 120px;
+          }
+          /* extra_contact_page */
 }
 @media(min-width:768px) and (max-width:991.98px){
 
@@ -94,6 +99,12 @@
             .free_growth_plan_right{
                 text-align:center;
                 }
+                  /* extra_contact_page */
+          .gallery_section_one {
+            max-height:90px;
+          }
+          /* extra_contact_page */
+
 }
 @media(min-width:576px) and (max-width:767px){
     .header_part_start{
@@ -163,6 +174,11 @@
                 .lets_talk_thee{
                     text-align:left;
                 }
+                /* extra_contact_page */
+          .gallery_section_one {
+            max-height:68px;
+          }
+          /* extra_contact_page */
 }
 @media(max-width:575.98px){
     .header_part_start{
@@ -241,4 +257,8 @@
                 .lets_talk_thee{
                     text-align:left;
                 }
+                .gallery_section_one img {
+                    width: 100%;
+                    height: auto;
+                  }
 }
