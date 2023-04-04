@@ -147,6 +147,7 @@ font-size: 4rem;
 color: white;
 }
 /* banner_section_end */
+/* contact_page_start */
 /* we_are_visual_section_start */
 .we_are_visual_section_start{
 background-color:#FAFAFA;
@@ -248,6 +249,50 @@ text-align: center;
     line-height: 25px;
 }
 /* our_story_section_end */
+/* key_fact_section_start */
+.key_fact_section_start{
+
+}
+.key_fact_section_mid{
+    background-color: #20323E;
+}
+.key_fact h2{
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+.key_fact_section_mid_para{
+ text-align: center;
+}
+.key_fact_section_mid_para p{
+    color: #8D9FA9;
+    line-height: 25px;
+}
+.key_fact_section_mid_count_section{
+
+}
+.key_fact_section_mid_count_one{
+text-align: center;
+}
+.key_fact_section_mid_count_one h1{
+color:#FCD400;
+font-weight: bold;
+font-size: 60px;
+margin-bottom: 0px;
+}
+.key_fact_section_mid_count_one h5{
+color: white;
+font-size: 18px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 4px;
+margin-top: 10px;
+}
+/* key_fact_section_end */
+
+
+
+
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
