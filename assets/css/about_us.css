@@ -358,6 +358,39 @@ margin-bottom:0px;
     vertical-align:middle;
 }
 /* outsourcing_partner_end */
+/* qualities_that_Bring_section_start */
+.qualities_that_Bring_section_start{
+
+}
+.qualities_that_Bring_title{
+ text-align: center;
+}
+.qualities_that_Bring_title h3{
+    text-transform: capitalize;
+}
+/* details_end */
+.qualities_that_Bring_section_details{
+
+}
+.qualities_that_Bring_d_one{
+ display: flex;
+ justify-content:space-around;
+ align-items: center;
+}
+.qualities_that_Bring_d_img{
+
+}
+.qualities_that_Bring_d_para{
+padding-left: 6px;
+}
+.qualities_that_Bring_d_para h5{
+font-size: 18px;
+}
+.qualities_that_Bring_d_para p{
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+/* qualities_that_Bring_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
