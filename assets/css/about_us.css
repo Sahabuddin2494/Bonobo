@@ -391,6 +391,45 @@ font-size: 18px;
     margin-bottom: 0px;
 }
 /* qualities_that_Bring_section_end */
+/* why_choose_us_section_start */
+.why_choose_us_section_start{
+background-color: #EDEDED;
+}
+.why_choose_us_section_title{
+
+}
+.why_choose_us_section_title h2{
+ font-family: 'Josefin Sans', sans-serif;
+ text-transform: capitalize;
+ color: #55314B;
+}
+.why_choose_us_section_title p{
+    font-size: 16px;
+}
+/* .why_choose_us_details_section_start */
+.why_choose_us_details_section{
+
+}
+.why_choose_us_details_one{
+box-shadow: 0px 0px 5px 2px powderblue;
+}
+.why_choose_us_details_one_img{
+overflow:hidden;
+}
+.why_choose_us_details_one_para{
+
+}
+.why_choose_us_details_one_para h4{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #222C4F;
+    margin-bottom: 0px;
+}
+.why_choose_us_details_one_para p{
+line-height: 25px;
+color: #438C95;
+}
+/* why_choose_us_details_section_end */
+/* why_choose_us_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
