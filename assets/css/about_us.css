@@ -430,6 +430,96 @@ color: #438C95;
 }
 /* why_choose_us_details_section_end */
 /* why_choose_us_section_end */
+
+/* our_model_section_start */
+.our_model_section_start{
+background-color: #212B34;
+}
+.our_model_section_left{
+ text-align: center;
+}
+/* left_end */
+.our_model_section_right{
+
+}
+.our_model_section_right h1{
+color: white;
+text-transform: uppercase;
+}
+.our_model_section_right p{
+color: white;
+line-height: 30px;
+}
+/* our_model_section_end */
+/* everything_in_section_start */
+.everything_in_section_start{
+
+}
+.everything_in_section_left{
+
+}
+/* left_end */
+.everything_in_section_right{
+text-align: right;
+}
+.everything_in_r_up{
+
+}
+.everything_in_r_up p{
+ text-transform: uppercase;
+font-family: 'Noto Serif Sinhala', serif;
+margin-bottom: 0px;
+}
+.everything_in_r_up hr{
+opacity: 1;
+width: 50px;
+height: 3px;
+background-color: #0898D7;
+border: none;
+display: inline-block;
+margin-top: 0px;
+line-height: 0px;
+}
+.everything_in_r_up h5{
+margin: 0px;
+text-transform: capitalize;
+font-family: 'Noto Serif Sinhala', serif;
+font-size: 30px;
+font-weight: bold;
+}
+.everything_in_r_up h1{
+    margin: 0px;
+    text-transform: capitalize;
+    font-family: 'Noto Serif Sinhala', serif;
+    font-weight: 400;
+}
+/* up_end */
+.everything_in_r_down{
+
+}
+.everything_in_r_down hr{
+    display: inline-block;
+    opacity: 1;
+    border: 0px;
+    height: 3px;
+    width:55%;
+    background-color: black;
+    margin: 0px;
+    vertical-align: middle;
+}
+.everything_in_r_down h1{
+    margin: 0px;
+    text-transform: capitalize;
+    font-family: 'Noto Serif Sinhala', serif;
+    font-weight:normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+.everything_in_r_down p{
+
+}
+/* everything_in_section_end */
+
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
