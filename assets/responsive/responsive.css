@@ -63,6 +63,22 @@
             box-shadow: 0px 0px 4px 1px #2AB8B1;
             border-radius: 6px;
             }
+            /* extra_mubar_section_start */
+                .extra_menu_start{
+                    position:relative;
+                    top:100%;
+                    left: 0%;
+                    display: none;
+                    }
+                    .extra_menu_start ul .extra_li{
+                        /* 
+                        background-color:#F9F9F9; */
+                        padding: 6px 4px;
+                        margin:0px;
+                        display: block;
+                        width:100%;
+                        }
+            /* extra_mubar_section_end */
             
             .mega_menu_left ul{
                 background-color:transparent!important;
@@ -134,6 +150,22 @@
             box-shadow: 0px 0px 4px 1px #2AB8B1;
             border-radius: 6px;
             }
+               /* extra_mubar_section_start */
+               .extra_menu_start{
+                position:relative;
+                top:100%;
+                left: 0%;
+                display: none;
+                }
+                .extra_menu_start ul .extra_li{
+                    /* 
+                    background-color:#F9F9F9; */
+                    padding: 6px 4px;
+                    margin:0px;
+                    display: block;
+                    width:100%;
+                    }
+        /* extra_mubar_section_end */
             .mega_menu_left ul{
                 background-color:transparent!important;
                 padding-left: 0px;
@@ -208,6 +240,22 @@
             box-shadow: 0px 0px 4px 1px #2AB8B1;
             border-radius: 6px;
             }
+               /* extra_mubar_section_start */
+               .extra_menu_start{
+                position:relative;
+                top:100%;
+                left: 0%;
+                display: none;
+                }
+                .extra_menu_start ul .extra_li{
+                    /* 
+                    background-color:#F9F9F9; */
+                    padding: 6px 4px;
+                    margin:0px;
+                    display: block;
+                    width:100%;
+                    }
+        /* extra_mubar_section_end */
             .mega_menu_left ul{
                 background-color:transparent!important;
                 padding-left: 0px;
