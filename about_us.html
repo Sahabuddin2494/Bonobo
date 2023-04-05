@@ -1112,18 +1112,22 @@
         })
     </script>
     <!-- lightbox_end -->
-
     <script>
         // When the user scrolls down 20px from the top of the document, slide down the navbar
         window.onscroll = function() {scrollFunction()};
         
         function scrollFunction() {
-          if (document.body.scrollTop > 140 || document.documentElement.scrollTop > 140) {
-            document.querySelector(".header_part_start").style.top = "0";
-            document.querySelector(".header_part_start").style.transition="top 0.3s";
+          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.querySelector(".header_part_start").style.top = "-20%";
+            document.querySelector(".header_part_start").style.transition="top 0.7s";
+
+            if(document.body.scrollTop > 400 || document.documentElement.scrollTop > 400){
+                document.querySelector(".header_part_start").style.top = "0%";
+                document.querySelector(".header_part_start").style.transition="top 0.7s";
+            }
           } else {
-            document.querySelector(".header_part_start").style.top = "-120px";
-            document.querySelector(".header_part_start").style.transition="top 0.3s";
+            document.querySelector(".header_part_start").style.top = "6%";
+            document.querySelector(".header_part_start").style.transition="top 0.7s";
           }
         }
         </script>
