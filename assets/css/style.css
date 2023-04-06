@@ -39,9 +39,13 @@ a{
     left: 0;
     z-index: 1030;
     /* background-color:#1596B6; */
+    /* background-color: #473387; */
 }
 .fixed_menu_section{
-
+ /* background-color: #235D7D; */
+}
+.saha_mega_menu{
+    position: relative;
 }
 .header_part_left{
 
@@ -54,12 +58,14 @@ a{
 
 }
 .header_part_middle ul{
-position: relative;
+/* position: relative; */
 /* background-color: #018174; */
+/* padding-bottom: 0px; */
+margin-bottom: 0px;
 }
 .header_part_middle ul li{
  display: inline-block;
- padding:10px 11px;
+ padding:38px 11px;
  /* background-color: #235D7D; */
 }
 /* extra_menu */
@@ -94,29 +100,29 @@ left: 0%;
 display: none;
 }
 .extra_menu_start .extra_ul{
-padding:5px 0px;
-background-color: #647684;
-border-radius: 10px;
+padding:0px 0px;
+background-color:white;
 }
 .extra_menu_start ul .extra_li{
-/* 
-background-color:#F9F9F9; */
-padding: 8px 4px;
+
+background-color:#F9F9F9;
+padding: 8px 8px;
 margin:0px;
 display: block;
-width:150px;
+width:200px;
+/* width: 100%; */
+margin: 4px 0px;
 }
 .extra_menu_start ul .extra_li:hover{
-background-color: #2AB8B1;
 color: #018174;
 }
 .extra_menu_start ul .extra_li:hover a{
-    color:palegreen;
+    color:#1F1A52;
     }
 .extra_menu_start ul .extra_li a{
     text-transform: capitalize;
     font-size: 14px;
-    color: #1F1A52;
+    color: #EB2861;
 }
 
 /* extra_menu_bar_section_end */
@@ -137,18 +143,18 @@ color: #018174;
 /* header_part_end */
 /* mega_menu_section_start*/
 .mega_menu_section{
-background-color:white;
+background-color:#2CBED2;
 position: absolute;
 top:100%;
-left:5%;
+left:0%;
 display: none;
 box-shadow: 0px 0px 4px 1px #2AB8B1;
 border-radius: 6px;
-width:75%;
+width:100%;
 z-index: 100;
 }
 .mega_menu_left{
-
+border-right: 2px solid #6CD2E0;
 }
 .mega_menu_left ul{
     background-color:transparent!important;
@@ -157,13 +163,13 @@ z-index: 100;
 }
 .mega_menu_left ul li {
     display: block;
-    padding: 2px 20px;
+    padding: 4px 20px;
 }
 .mega_menu_left ul li a{
-color:#2AB8B1;
+color:white;
 font-weight: 400;
-font-size: 14px;
-text-transform: uppercase;
+font-size: 13px;
+text-transform:capitalize;
 }
 .mega_menu_left ul li a:hover{
  color: bisque;   
@@ -171,6 +177,43 @@ text-transform: uppercase;
 /* mega_left_end */
 .mega_menu_right{
 
+}
+.mega_menu_right_up{
+
+}
+.mega_menu_right_up h3{
+    color: white;
+}
+.mega_menu_right_btn{
+
+}
+.mega_menu_right_btn .btn{
+    background-color: #FEE038;
+    color: black;
+    font-weight: normal;
+    font-size: 13px;
+}
+.mega_menu_right_btn .btn:hover{
+    background-color:navy;
+    color:white;
+}
+.mega_menu_right_down{
+
+}
+.mega_menu_right_down p{
+    color: white;
+    font-size: 18px;
+}
+.mega_menu_final_down{
+text-align: center;
+}
+.mega_menu_final_down hr{
+    opacity: 1;
+    border-color:white;
+}
+.mega_menu_final_down h1{
+font-size: 50px;
+color: white;
 }
 /* mega_menu_section_end*/
 /* banner_section_start */
