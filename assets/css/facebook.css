@@ -367,6 +367,58 @@ margin: 0px;
     font-weight: 500;
 }
 /* our_approach_to_section_end */
+/* facebook_ads_management_start */
+.facebook_ads_management_start{
+
+}
+.facebook_ads_management_title{
+text-align: center;
+}
+.facebook_ads_management_title h1{
+margin: 0px;
+text-transform: capitalize;
+color: #3F3F3D;
+font-family: 'Oswald', sans-serif;
+}
+.facebook_ads_management_title hr{
+    opacity: 1;
+    border: none;
+    width: 5%;
+    height: 3px;
+    background-color: red;
+    display: inline-block;
+    margin: 0px;
+}
+.facebook_ads_management_title p{
+
+}
+/* .facebook_ads_management_tab_section */
+.facebook_ads_management_tab_section{
+
+}
+.facebook_ads_management_tab_left{
+
+}
+.facebook_ads_management_tab_left .nav-pills .nav-link {
+    background-color:#F5F5F5;
+    text-align: left;
+    color: black;
+    font-weight:bold;
+    font-size:22px;
+    margin:3px 0px;
+    border-radius:0px;
+}
+
+.nav-pills .nav-link {
+    border-radius: var(--bs-nav-pills-border-radius);
+}
+/* left_end */
+.facebook_ads_management_tab_right{
+height: 280px;
+overflow: hidden;
+}
+/* facebook_ads_management_end */
+
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
