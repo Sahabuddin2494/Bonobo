@@ -347,6 +347,25 @@ margin: 0px;
  text-align: left;
 }
 /* left_end */
+.our_approach_to_section_right{
+
+}
+.our_approach_to_ri_one{
+ text-align: center;
+ box-shadow: 0px 0px 4px 1px powderblue;
+ height: 160px;
+}
+.our_approach_to_ri_one_img{
+
+}
+.our_approach_to_ri_one_para{
+
+}
+.our_approach_to_ri_one_para p{
+    margin: 0px;
+    color: #5D4D96;
+    font-weight: 500;
+}
 /* our_approach_to_section_end */
 /* review_section_start */
 .review_section_start{
