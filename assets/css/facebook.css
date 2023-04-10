@@ -299,6 +299,55 @@ background-color: #FFD81B;
 
 }
 /* brand_experience_section_end */
+/* our_approach_to_section_start */
+.our_approach_to_section_start{
+
+}
+.our_approach_to_section_left{
+
+}
+.our_app_to_left_up{
+
+}
+.our_app_to_left_up hr{
+border: none;
+opacity: 1;
+width: 40%;
+height: 2px;
+background-color:#6556BD;
+}
+.our_app_to_left_up p{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+}
+.our_app_to_left_up h3{
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #806554;
+}
+.our_app_to_left_down{
+    text-align: center;
+}
+.our_app_to_left_down hr{
+opacity: 1;
+border: none;
+width: 20%;
+height: 2px;
+background-color: red;
+display: inline-block;
+margin: 0px;
+
+}
+.our_app_to_left_down p{
+    font-size: 14px;
+    font-weight: 400;
+ text-align: left;
+}
+/* left_end */
+/* our_approach_to_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
