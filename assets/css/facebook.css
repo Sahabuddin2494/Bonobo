@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -480,6 +481,62 @@ text-align: center;
     color: white;
 }
 /* precision_section_end */
+/* are_planing_section_start */
+.we_are_planing_section_start{
+
+}
+.we_are_planing_section_title{
+     text-align: center;
+}
+.we_are_planing_section_title h4{
+color: #F94603;
+font-family: 'Oswald', sans-serif;
+font-size:20px;
+letter-spacing: 2px;
+}
+.we_are_planing_section_title h1{
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+.we_are_planing_section_title h5{
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+.we_are_planing_section_details{
+
+}
+.we_are_planing_section_d_one{
+background-color: #EEEEEE;
+border-radius: 10px;
+text-align: center;
+}
+.we_are_planing_section_d_one_up{
+
+}
+.we_are_planing_section_d_one_up p{
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+    font-weight:600;
+    margin: 0px;
+}
+.we_are_planing_section_d_one_up h1{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.we_are_planing_section_d_one_up hr{
+    opacity: 1;
+    color:white;
+}
+.we_are_planing_section_d_one_up h4{
+    font-size: 13px;
+    color: #938E8A;
+    font-weight: normal;
+}
+/* up_end */
+
+/* are_planing_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
