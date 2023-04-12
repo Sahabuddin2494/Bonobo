@@ -423,9 +423,36 @@ overflow: hidden;
 
 }
 .talk_with_our_repre_main{
-    
+
 }
 /* talk_with_our_repre_section_end */
+/* precision_section_start */
+.precision_section_start{
+background-color: #E2F6FF;
+}
+.precision_section_title{
+text-align: center;
+}
+.precision_section_title h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight:normal;
+    margin-bottom: 0px;
+}
+.precision_section_title hr{
+    opacity: 1;
+    border: none;
+    width: 3%;
+    height: 3px;
+    background-color: red;
+    display: inline-block;
+    margin: 0px;
+}
+.precision_section_title p{
+    /* font-family: 'Oswald', sans-serif; */
+    font-size:14px;
+    font-weight:normal;
+}
+/* precision_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
