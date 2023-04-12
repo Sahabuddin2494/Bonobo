@@ -452,6 +452,33 @@ text-align: center;
     font-size:14px;
     font-weight:normal;
 }
+.precision_section_details{
+
+}
+.precision_section_one{
+ text-align: center;
+}
+.precision_section_one_img{
+
+}
+.precision_section_one_details{
+
+}
+.precision_section_one_details p{
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.precision_section_btn{
+text-align: center;
+}
+.precision_section_btn .btn{
+    background-color: #3775C8;
+    color: white;
+}
+.precision_section_btn .btn:hover{
+    background-color:navy;
+    color: white;
+}
 /* precision_section_end */
 /* review_section_start */
 .review_section_start{
