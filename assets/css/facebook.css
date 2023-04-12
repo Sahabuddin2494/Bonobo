@@ -579,9 +579,44 @@ color: #A8A8A8;
 }
 /* left_end */
 .facebook_creative_packge_right{
-
+text-align: center;
+border: 1px solid #EEEEEE;
+}
+.facebook_creative_packge_right p{
+text-transform: capitalize;
+margin: 0px;
+font-weight: bold;
+font-size: 20px;
+color: #F87D2F;
+letter-spacing: 2px;
+}
+.facebook_creative_packge_right h1{
+    font-family: 'Oswald', sans-serif;
+}
+.facebook_creative_packge_right h5{
+margin: 0px;
+color: #908589;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+text-transform: capitalize;
 }
 /* facebook_creative_packge_end */
+/* .why_hire_Professional_facebook_start */
+.why_hire_Professional_facebook_start{
+background-color: #000000;
+}
+.why_hire_Professional_facebook_main{
+    text-align: center;
+    color: white;
+}
+.why_hire_Professional_facebook_main h1{
+
+}
+.why_hire_Professional_facebook_main p{
+    line-height: 30px;
+}
+/* why_hire_Professional_facebook_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
