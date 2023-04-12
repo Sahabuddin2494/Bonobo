@@ -537,6 +537,51 @@ text-align: center;
 /* up_end */
 
 /* are_planing_section_end */
+/* facebook_creative_packge_start */
+.facebook_creative_packge_start{
+
+}
+.facebook_creative_packge_left{
+
+}
+.facebook_creative_packge_title{
+
+}
+.facebook_creative_packge_title h5{
+    font-weight:bold;
+    letter-spacing: 2px;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: black;
+}
+.facebook_creative_packge_left_describe{
+
+}
+.facebook_creative_packge_left_describe_title{
+background-color: #EEEEEE;
+display: flex;
+justify-content:space-between;
+align-items: center;
+}
+.facebook_creative_packge_left_describe_title h5{
+    font-size: 18px;
+    margin: 0px;
+}
+.facebook_creative_packge_left_describe_para{
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid #EEEEEE;
+}
+.facebook_creative_packge_left_describe_para p{
+margin: 0px;
+color: #A8A8A8;
+}
+/* left_end */
+.facebook_creative_packge_right{
+
+}
+/* facebook_creative_packge_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
