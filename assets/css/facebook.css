@@ -636,6 +636,48 @@ text-transform: uppercase;
  text-transform: capitalize;
  line-height: 26px;
 }
+
+/* whole_world_section_start */
+.whole_world_section_start{
+
+}
+.whole_world_section_left{
+
+}
+.whole_world_section_left_one{
+text-align: center;
+}
+.whole_world_section_left_one p{
+    text-transform: uppercase;
+    margin: 0px;
+    color: #6F6274;
+    background-color: #E7E5FA;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px 1px plum;
+}
+.whole_world_section_left_one_down{
+text-align: center;
+}
+.whole_world_section_left_one_down p{
+    margin: 0px;
+    color: white;
+    background-color: #4055B2;
+    border-radius: 10px;
+    text-transform: uppercase;
+
+}
+.whole_world_section_right{
+    background-color: #E7E5FA;
+    border-radius: 10px;
+   box-shadow: 0px 3px 2px 1px powderblue;
+}
+.whole_world_section_right p{
+    margin: 0px;
+    line-height: 26px;
+    font-weight: 500;
+    font-size: 15px;
+}
+/* whole_world_section_end */
 /* investing_in_facebook_section_end */
 
 /* review_section_start */
