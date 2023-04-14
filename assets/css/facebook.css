@@ -679,7 +679,40 @@ text-align: center;
 }
 /* whole_world_section_end */
 /* investing_in_facebook_section_end */
+/* small_business_section_start */
+.small_business_start{
 
+}
+.small_business_title{
+text-align: center;
+}
+.small_business_title h4{
+    text-transform: uppercase;
+    margin: 0px;
+    color: #565054;
+    font-weight: normal;
+}
+.small_business_title hr{
+    opacity: 1;
+    border: none;
+    display: inline-block;
+    background-color: yellowgreen;
+    width: 50%;
+    height: 2px;
+}
+.small_business_title h5{
+    color: #847175;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.small_business_title p{
+    color: #98968A;
+    margin: 0px;
+    line-height: 25px;
+    font-size: 14px;
+    text-align: justify;
+}
+/* small_business_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
