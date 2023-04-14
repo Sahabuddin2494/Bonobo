@@ -617,6 +617,27 @@ background-color: #000000;
     line-height: 30px;
 }
 /* why_hire_Professional_facebook_end */
+/* investing_in_facebook_section_start */
+
+.investing_in_facebook_section_start{
+
+}
+.investing_in_facebook_title{
+text-align: center;
+}
+.investing_in_facebook_title h3{
+text-transform: uppercase;
+}
+.investing_in_facebook_title span{
+    color: #E1A334;
+}
+.investing_in_facebook_title p{
+ color:#3E5962;
+ text-transform: capitalize;
+ line-height: 26px;
+}
+/* investing_in_facebook_section_end */
+
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
