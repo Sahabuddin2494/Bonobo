@@ -419,6 +419,47 @@ height: 280px;
 overflow: hidden;
 }
 /* facebook_ads_management_end */
+
+/* ads_agency_help_start */
+.ads_agency_help_start{
+
+}
+.ads_agency_help_title{
+ text-align:left;
+}
+.ads_agency_help_title h3{
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #594E4C;
+    letter-spacing: 4px;
+    text-align: left;
+    font-size: 22px;
+}
+.ads_agency_help_title p{
+    color: #7B7774;
+
+}
+.ads_agency_help_title_img{
+
+}
+.ads_agency_help_para{
+
+}
+.ads_agency_help_para p{
+    color: #018174;
+    font-weight: normal;
+}
+.ads_agency_help_para span{
+    font-weight: bold;
+}
+.ads_agency_help_para_btn{
+text-align: center;
+}
+.ads_agency_help_para_btn .btn{
+    background-color: #3775C8;
+    color: white;
+}
+/* ads_agency_help_end */
 /* talk_with_our_repre_section_start */
 .talk_with_our_repre_section_start{
 
