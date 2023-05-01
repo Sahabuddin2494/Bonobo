@@ -561,6 +561,20 @@ letter-spacing: 2px;
     text-transform: capitalize;
     letter-spacing: 2px;
 }
+/* extra_start */
+.rasel_extra_icon{
+
+}
+.rasel_extra_icon .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 1.5em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    /* background-color: blue; */
+    background-color: white;
+    color: #4F70D0;
+}
+/* extra_end */
 .we_are_planing_section_details{
 
 }
