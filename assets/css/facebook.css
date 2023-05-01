@@ -420,6 +420,22 @@ overflow: hidden;
 }
 /* facebook_ads_management_end */
 
+.facebook_ads_mana_right_left{
+text-align: center;
+}
+.e_facebook_ads_mana_r_left{
+
+}
+/* left_end */
+.e_facebook_ads_mana_r_right{
+
+}
+.e_facebook_ads_mana_r_right p{
+    font-size: 14px;
+    line-height:22px;
+    text-align: justify;
+    text-transform: capitalize;
+}
 /* ads_agency_help_start */
 .ads_agency_help_start{
 

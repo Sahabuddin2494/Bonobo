@@ -125,7 +125,7 @@
            }
 
 }
-@media(min-width:576px) and (max-width:767px){
+@media(min-width:576px) and (max-width:767.98px){
     .header_part_start{
         position:static;
         top: 7%;
@@ -318,4 +318,8 @@
                   .fixed_menu_section{
                     background-color: #235D7D;
                    }
+                   .facebook_ads_management_tab_right{
+                    height: auto;
+                    overflow: hidden;
+                    }
 }
