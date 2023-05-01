@@ -217,6 +217,10 @@
           .fixed_menu_section{
             background-color: #235D7D;
            }
+           .facebook_ads_management_tab_right{
+            height:auto;
+            overflow: hidden;
+            }
 }
 @media(max-width:575.98px){
     .header_part_start{
