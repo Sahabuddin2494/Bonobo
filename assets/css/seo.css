@@ -281,10 +281,23 @@ padding-left: 10px;
     line-height: 1.3;
     text-transform: uppercase;
 }
+.cmm_seo_p{
+    padding-top: 5px;
+    color: #000;
+    font-size: 17px;
+    line-height: 26px;
+    font-size: 18px;
+}
 .our_seo_d_one{
-    
+
 }
 /* OUR_SEO_WORK_end */
+/* comprehensive_seo_section_start */
+.comprehensive_bg{
+    background-color:#F5FBFF;
+}
+/* comprehensive_seo_section_end */
+
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
