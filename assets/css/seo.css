@@ -479,8 +479,34 @@ border-radius: 10px;
 /* need_help_sec_end */
 /* what_do_your_search_section_start */
 .what_d_our_s_title{
-    
+
 }
+/* title_end */
+/* .what_do_you_search_details_start */
+.what_do_our_d_one{
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+    border-radius: 10px;
+    min-height: 250px;
+    overflow: hidden;
+    transition: 0.7s;
+
+}
+.what_do_our_d_one:hover{
+    background-color:#0090f1;
+    color: white;
+    transform: translateY(-2%);
+}
+.what_do_our_d_one h5{
+    font-size: 19px;
+    line-height: 22px;
+}
+.what_do_our_d_one p{
+margin-bottom: 0px;
+}
+.what_do_o_img{
+
+}
+/* what_do_you_search_details_end */
 /* what_do_your_search-section_end */
 /* review_section_start */
 .review_section_start{
