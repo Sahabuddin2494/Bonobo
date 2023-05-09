@@ -439,6 +439,49 @@ right:1%;
     border-radius: 4px;
 }
 /* nationl_details_end */
+/* all_seo_para_section_start */
+.all_seo_para_btn{
+
+}
+.all_seo_para_btn .btn{
+    font-size: 18px;
+        width: 40%;
+    text-transform: uppercase;
+    background-color: #0090f1;
+    color: white;
+}
+/* all_seo_para_section_end */
+/* need_help_sec_start */
+.need_help_sec{
+background-color: #0090f1;
+border-radius: 10px;
+}
+.need_help_sec h5{
+    font-size: 26px;
+    color: #fff;
+    font-weight: 600;
+}
+.need_help_sec p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: roboto;
+    color: #fff;
+}
+.need_help_sec_btn{
+
+}
+.need_help_sec_btn .btn{
+    background-color: #ffba18;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+/* need_help_sec_end */
+/* what_do_your_search_section_start */
+.what_d_our_s_title{
+    
+}
+/* what_do_your_search-section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
