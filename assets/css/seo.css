@@ -508,6 +508,21 @@ margin-bottom: 0px;
 }
 /* what_do_you_search_details_end */
 /* what_do_your_search-section_end */
+/* what_are_seo_pack_start */
+.what_are_seo_pack{
+
+}
+.what_are_seo_pack_left{
+
+}
+.what_are_seo_pack_right{
+
+}
+.what_are_seo_pack_right p{
+    font-size: 17px;
+    line-height: 32px;
+}
+/* what_are_seo_pack_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
