@@ -7,6 +7,8 @@
     <title>seo_page</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" />
     <link rel="stylesheet" href="assets/css/seo.css">
     <link rel="stylesheet" href="assets/responsive/responsive.css">
 </head>
@@ -931,6 +933,84 @@
                         </div>
                     </section>
                     <!-- case_studies_from_sec_end -->
+                    <!-- .customer_saying_sec_start -->
+                    <section class="cutomer_saying py-3 py-lg-4">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-5">
+                                    <div class="customer_say_left">
+                                        <div class="customer_say_left_up">
+                                             <h2 class="cmm_seo_h2">What are our SEO Customers Saying</h2>
+                                             <p class="cmm_seo_p py-2">Our SEO packages customers have had great success with our services, and we're confident that you will too. Here's what some of them have had to say: </p>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <div class="customer_say_left_img text-center p-2 p-lg-4 my-2">
+                                                    <a href="#"><img src="assets/images/customer2.png" alt="custo" class="img-fluid"> </a>
+                                                </div>
+                                            </div>
+                                            <!-- one_end -->
+                                            <div class="col-sm-6">
+                                                <div class="customer_say_left_img text-center p-2 p-lg-4 my-2">
+                                                    <a href="#"><img src="assets/images/customer1.png" alt="custo" class="img-fluid"> </a>
+                                                </div>
+                                            </div>
+                                            <!-- one_end -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- let_end -->
+                                <div class="col-lg-7">
+                                    <div class="customer_say_right my-2 mt-lg-4">
+                                             <div class="cus_extra p-2">
+                                                <div class="customer_say_right_one text-center p-2 py-3 py-lg-4">
+                                                    <h5 class="py-2">Philip Castleton</h5>
+                                                    <p> <span> <img src="assets/images/icon.png" alt="" class="img-fluid d-inline-block mb-3"></span> I am very impressed with the organization a Page Traffic. Unlike other SEO companies, with you I know exactly what work is being done, with other companies you just hoped that they were doing what they said they were going to do! </p>
+                                             </div>
+                                             </div>
+                                             <!-- one_end -->
+                                             <div class="cus_extra p-2">
+                                                <div class="customer_say_right_one text-center p-2 py-3 py-lg-4">
+                                                    <h5 class="py-2">Philip Castleton</h5>
+                                                    <p> <span> <img src="assets/images/icon.png" alt="" class="img-fluid d-inline-block mb-3"></span> I am very impressed with the organization a Page Traffic. Unlike other SEO companies, with you I know exactly what work is being done, with other companies you just hoped that they were doing what they said they were going to do! </p>
+                                             </div>
+                                             </div>
+                                             <!-- one_end -->
+                                         <!-- one_end -->
+                                         <div class="cus_extra p-2">
+                                            <div class="customer_say_right_one text-center p-2 py-3 py-lg-4">
+                                                <h5 class="py-2">Philip Castleton</h5>
+                                                <p> <span> <img src="assets/images/icon.png" alt="" class="img-fluid d-inline-block mb-3"></span> I am very impressed with the organization a Page Traffic. Unlike other SEO companies, with you I know exactly what work is being done, with other companies you just hoped that they were doing what they said they were going to do! </p>
+                                         </div>
+                                         </div>
+                                         <!-- one_end -->
+                                     <!-- one_end -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- customer_saying_sec_end -->
+                    
+                    <!-- neeed_section -->
+                    <section class="py-3 py-lg-5">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="need_help_sec text-center py-3 pb-lg-4">
+                                        <h5>Need help in selecting the right SEO package? Contact us today. </h5>
+                                        <p>Not sure, which package is right for your site? Drop us a line and we would be more than happy to assist you for the same.</p>
+                                        <div class="need_help_sec_btn">
+                                            <a href="#" class="btn">Request a Free Proposal</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- need_help_sec_end -->
+                        </div>
+                    </section>
+                    <!-- need_section_end -->
+
          <!-- review_section_start -->
          <section class="review_section_start py-2 py-lg-4">
             <div class="container">
@@ -1342,7 +1422,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
  
 
+      <!-- slick_slider_sec -->
+      <script>
+        $('.customer_say_right').slick({
+infinite: true,
+slidesToShow: 2,
+slidesToScroll: 1
+});
     </script>
+<!-- slick_slider_end -->
     
     <!-- // lightbox_start -->
     <script>
@@ -1353,6 +1441,7 @@
         })
     </script>
     <!-- lightbox_end -->
+  
     <script>
         // When the user scrolls down 20px from the top of the document, slide down the navbar
         window.onscroll = function() {scrollFunction()};

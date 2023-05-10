@@ -627,9 +627,40 @@ background-color: #F9F9F9;
 .case_stu_sec_right{
 
 }
-
 /* sec_right
 case_studies_from_sec_end */
+/* customer_saying_sec_start */
+.cutomer_saying{
+    background-color: #F8FAFB;
+}
+.customer_say_left{
+
+}
+.customer_say_left_up{
+
+}
+.customer_say_left_img{
+ box-shadow: 0px 0px 3px 1px paleturquoise;
+ min-height:200px;
+}
+/* left_end */
+.customer_say_right{
+
+}
+.customer_say_right_one{
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+border-bottom: 2px solid #1A81CB;
+border-radius: 10px;
+min-height: 300px;
+}
+.customer_say_right_one h5{
+    font-weight: bold;
+}
+.customer_say_right_one p{
+    font-size: 14px;
+    font-style: italic;
+}
+/* customer_saying_sec_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
