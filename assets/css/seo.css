@@ -523,6 +523,55 @@ margin-bottom: 0px;
     line-height: 32px;
 }
 /* what_are_seo_pack_end */
+/* afforddab_section_start */
+.afforddab_section_start{
+background-color: #F9F9F9;
+}
+.afforddab_left{
+
+}
+.afforddab_left h5{
+    color: #0090f1;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.afforddab_left h2{
+
+}
+.afforddab_left_para{
+
+}
+.afforddab_left_para p{
+
+}
+/* counter? */
+.afforddab_left_counter{
+
+}
+.afforddab_left_cout_one{
+
+}
+.afforddab_left_cout_one h4{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.afforddab_left_cout_one p{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.affor_f_b{
+    border-right:2px solid #dad5d5;
+
+}
+/* counter_end */
+/* left_End */
+.afforddab_right{
+
+}
+.afforddab_right_one{
+    
+}
+/* afforddab_section_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
