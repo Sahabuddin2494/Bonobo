@@ -569,9 +569,67 @@ background-color: #F9F9F9;
 
 }
 .afforddab_right_one{
-    
+
 }
 /* afforddab_section_end */
+/* case_studies_from_sec_start */
+.case_stu_sec{
+    
+}
+.case_stu_sec_left{
+
+}
+.case_stu_sec_left_title{
+
+}
+.case_stu_sec_left_title h5{
+    font-size: 25px;
+    color: #1d1d1d;
+    font-weight:600;
+}
+/* left_end */
+.case_stu_sec_left_para{
+
+}
+.case_stu_sec_left_para p{
+
+}
+.case_stu_sec_selec{
+
+}
+.case_stu_sec_selec_one{
+
+}
+.case_stu_sec_selec_one .svg-inline--fa {
+    display: var(--fa-display,inline-block);
+    height: 0.6em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    background-color: #0090f1;
+    padding: 5px;
+    border-radius: 50%;
+    color: white;
+}
+.case_stu_sec_selec_one p{
+    font-size: 17px;
+    color: #000;
+    font-weight: 400;
+    line-height: 24px;
+}
+.case_stu_sec_selec_get_touch{
+
+}
+.case_stu_sec_selec_get_touch p{
+    margin: 0;
+    font-size:17px;
+}
+/* left_end */
+.case_stu_sec_right{
+
+}
+
+/* sec_right
+case_studies_from_sec_end */
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;
