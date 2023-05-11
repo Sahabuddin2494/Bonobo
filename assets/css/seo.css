@@ -692,6 +692,43 @@ min-height: 300px;
 background-image: url("../images/plus.jpg");
 }
 /* some_frequentl_sec_end */
+/* the_page_traffic_start */
+.the_page_traffic_start{
+
+}
+.related_post_title{
+
+}
+.related_post_title h5{
+    color: #0061b5;
+    font-size: 28px;
+    line-height: 25px;
+    font-weight: 600;
+}
+/* the_page_traffic_end */
+.related_post_left_one{
+}
+
+.related_post_border{
+    box-shadow: ;
+}
+/* related_right_start */
+.related_right_start{
+
+}
+.related_right_d_start{
+
+}
+.related_r_d_one{
+
+}
+.related_r_icon_c{
+    color: #000;
+ 
+}
+.related_r_icon_bor{
+    border-bottom: 1px solid paleturquoise;
+}
 /* review_section_start */
 .review_section_start{
     background-color: #F6F6F6;

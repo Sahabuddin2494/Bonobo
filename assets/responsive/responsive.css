@@ -221,6 +221,9 @@
             height:auto;
             overflow: hidden;
             }
+            .all_seo_para_btn .btn{
+                width:70%;
+            }
 }
 @media(max-width:575.98px){
     .header_part_start{
@@ -325,5 +328,15 @@
                    .facebook_ads_management_tab_right{
                     height: auto;
                     overflow: hidden;
+                    }
+                    .seo_b_t h1{
+                        font-size: 37px;
+                    }
+                    .all_seo_para_btn .btn{
+                        width:100%;
+                    }
+                    .cmm_seo_h2{
+                        font-size: 2rem;
+                        text-align: center;
                     }
 }
