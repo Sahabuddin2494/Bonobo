@@ -339,4 +339,7 @@
                         font-size: 2rem;
                         text-align: center;
                     }
+                    .we_offer_best_left_btn .btn{
+                        width: 100%;
+                    }
 }

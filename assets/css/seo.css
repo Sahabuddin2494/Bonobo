@@ -269,6 +269,35 @@ padding-left: 10px;
     color: white;
 }
 /* about_banner_section_end */
+/* we_offer_best_start */
+.we_offer_best_start{
+
+}
+.we_offer_best_left{
+
+}
+.we_offer_best_left_up{
+
+}
+.we_offer_best_left_btn .btn{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+}
+.we_offer_color1{
+    color: white;
+    background-color: #0061b5;
+}
+.we_offer_color2{
+    color:#0061b5;
+    background-color: white;
+    border: 1px solid #0061b5;
+}
+/* left_End */
+.we_offer_best_right{
+
+}
+/* we_offer_best_end */
 
 /* OUR_SEO_WORK_START */
 .our_seo_title{
